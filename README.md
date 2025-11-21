@@ -1,8 +1,8 @@
-# 🛒 SuperMarketManager
+# 🛒 SuperMarketManager 🛒
 
 **SuperMarketManager** is a simple Java application designed to simulate inventory management for a supermarket.
 
-## 🏛 Database Architecture
+## 🏛 Database Architecture 🏛
 
 The core strength of this project lies in its database design, which solves common errors by splitting entities:
 
